@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm idris abdillah</h1>
+<h1 align="center">Hi 👋, I'm idris abdillah</h1>)
 <h3 align="center">Mahasiswa Pendidikan Teknik Informatika (Semester 7) Universitas Muhammadiyah Surakarta yang berfokus pada Software Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrsabdlh-coder" alt="idrsabdlh-coder" /></a> </p>
